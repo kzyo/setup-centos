@@ -1,0 +1,7 @@
+packages:
+  - { name: git, state: present }
+  - { name: tree, state: present }
+  - { name: vim, state: present }
+  - { name: mysql, state: present }
+  - { name: openssl, state: present }
+  - { name: wget, state: present }
